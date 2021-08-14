@@ -1,0 +1,10 @@
+name: SkyWars
+version: ${project.version}
+main: dev.lightdream.skywars.Main
+authors: [ L1ghtDream ]
+website: https://lightdream.tk
+depend: [WorldEdit]
+api-version: 1.17
+commands:
+  sw:
+    aliases: [skywars]
